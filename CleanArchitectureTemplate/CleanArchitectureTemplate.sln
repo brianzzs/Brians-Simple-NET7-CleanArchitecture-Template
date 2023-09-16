@@ -5,15 +5,15 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{367C8981-6ED4-4CCF-AAFF-26BEA9A89BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{7B3A970B-DF5D-4208-B9DC-D97377BD1541}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", ".\Domain\Domain.csproj", "{7B3A970B-DF5D-4208-B9DC-D97377BD1541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Application\Application.csproj", "{F995B48E-0A6A-4B76-98B7-B05197A05834}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", ".\Application\Application.csproj", "{F995B48E-0A6A-4B76-98B7-B05197A05834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{3E22EE80-8846-468A-9BD3-240EEB79BE71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", ".\Infrastructure\Infrastructure.csproj", "{3E22EE80-8846-468A-9BD3-240EEB79BE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "..\Presentation\Presentation.csproj", "{18781272-1254-475B-B457-97407E755062}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", ".\Presentation\Presentation.csproj", "{18781272-1254-475B-B457-97407E755062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "..\WebAPI\WebAPI.csproj", "{07D23A67-6AAD-4C78-A3CE-CBF1F4C099E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", ".\WebAPI\WebAPI.csproj", "{07D23A67-6AAD-4C78-A3CE-CBF1F4C099E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
